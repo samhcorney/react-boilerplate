@@ -1,0 +1,15 @@
+section {
+    @include row;
+}
+
+section article {
+    @include media( $desktop ) {
+        @include span-columns(7);
+    }
+}
+
+section aside {
+    @include media( $desktop ) {
+        @include span-columns(5);
+    }
+}
