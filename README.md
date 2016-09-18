@@ -26,6 +26,10 @@ git clone https://github.com/samhcorney/react-boilerplate.git
 npm install
 ```
 
+### Running
+
+From the command line navigate to the root folder of this project and type 'gulp'.
+
 ## Features
 
 * Gulp for build automation
