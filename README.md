@@ -1,6 +1,6 @@
 # React Boilerplate
 
-A rewrite of the [react tutorial](https://facebook.github.io/react/docs/tutorial.html) using [ES6](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes)
+A rewrite of the [react tutorial](https://facebook.github.io/react/docs/tutorial.html) using [ES6](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes).
 
 Built on top of [this](https://github.com/samhcorney/html-boilerplate) html boilerplate.
 
